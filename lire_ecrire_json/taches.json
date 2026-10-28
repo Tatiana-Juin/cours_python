@@ -1,0 +1,14 @@
+[
+    {
+        "nom": "coder",
+        "fait": false
+    },
+    {
+        "nom": "manger",
+        "fait": true
+    },
+    {
+        "nom": "cours de Python",
+        "fait": false
+    }
+]
